@@ -1,0 +1,13 @@
+#app {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-color: black;
+}
+
+#block {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    background-color: white;
+}
